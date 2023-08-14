@@ -1,0 +1,15 @@
+{
+  "name": "@example/basic",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "dependencies": {
+    "@main/core": "workspace:*"
+  },
+  "scripts": {
+    "start": "jiti ./index.ts"
+  },
+  "devDependencies": {
+    "jiti": "^1.17.0"
+  }
+}
