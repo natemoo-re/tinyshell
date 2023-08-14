@@ -5,6 +5,6 @@ A very tiny `node:child_process` wrapper that makes executing shell scripts less
 ```js
 import { shell } from 'tinyshell';
 
-const result = await shell('node', ['--version'])
-console.log(result) // { stdout: 'v18.17.1', stderr: '', exitCode: 0 }
+const result = await shell('node', ['--version']);
+console.log(result); // { stdout: 'v18.17.1', stderr: '', exitCode: 0 }
 ```
