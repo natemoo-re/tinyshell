@@ -1,5 +1,5 @@
 {
-  "name": "@clack/root",
+  "name": "tinyshell",
   "private": true,
   "type": "module",
   "scripts": {
@@ -24,6 +24,6 @@
   },
   "packageManager": "pnpm@7.6.0",
   "volta": {
-    "node": "16.19.0"
+    "node": "18.17.1"
   }
 }

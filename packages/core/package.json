@@ -1,5 +1,5 @@
 {
-  "name": "@main/core",
+  "name": "tinyshell",
   "version": "0.0.0",
   "type": "module",
   "main": "./dist/index.cjs",
@@ -15,13 +15,13 @@
   "types": "./dist/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/natemoo-re/clack",
-    "directory": "packages/core"
+    "url": "https://github.com/natemoo-re/tinyshell",
+    "directory": "packages/tinyshell"
   },
   "bugs": {
-    "url": "https://github.com/natemoo-re/clack/issues"
+    "url": "https://github.com/natemoo-re/tinyshell/issues"
   },
-  "homepage": "https://github.com/natemoo-re/clack/tree/main/packages/core#readme",
+  "homepage": "https://github.com/natemoo-re/tinyshell/tree/main/packages/tinyshell#readme",
   "files": [
     "dist",
     "CHANGELOG.md"
